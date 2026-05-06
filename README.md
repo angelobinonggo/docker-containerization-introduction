@@ -1,4 +1,4 @@
-# 🐳 Lab Manual 1: Introduction to Docker Containerization
+#  Lab Manual 1: Introduction to Docker Containerization
 
 > **Module 6 – Cloud Integration | Topic 6.3: Containerization with Docker**
 
@@ -6,7 +6,7 @@ An introductory lab project demonstrating Docker containerization — covering t
 
 ---
 
-## 📋 Objectives
+##  Objectives
 
 By completing this lab, students will be able to:
 
@@ -17,7 +17,7 @@ By completing this lab, students will be able to:
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 | Requirement | Details |
 |---|---|
@@ -28,7 +28,7 @@ By completing this lab, students will be able to:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 docker-containerization-introduction/
@@ -138,7 +138,7 @@ docker rmi docker-lab1-app
 
 ---
 
-## ✅ Expected Output
+##  Expected Output
 
 ```
 Hello from Docker Container!
@@ -146,7 +146,7 @@ Hello from Docker Container!
 
 ---
 
-## 🧠 Guide Questions
+##  Guide Questions
 
 1. **What role does the Dockerfile play in containerization?**
    > The Dockerfile serves as a blueprint/recipe that defines the environment, dependencies, and commands needed to build and run an application inside a container. It ensures reproducibility across any machine that has Docker installed.
@@ -159,7 +159,7 @@ Hello from Docker Container!
 
 ---
 
-## 📊 Docker vs Virtual Machine
+##  Docker vs Virtual Machine
 
 | Feature | Docker Container | Virtual Machine |
 |---|---|---|
@@ -171,7 +171,7 @@ Hello from Docker Container!
 
 ---
 
-## 📚 Background: Module 6 – Cloud Integration
+##  Background: Module 6 – Cloud Integration
 
 This lab is part of **Module 6: Cloud Integration**, which covers:
 
@@ -184,6 +184,6 @@ Docker plays a critical role in **microservices architecture** — each service 
 
 ---
 
-## 🏷️ License
+##  License
 
 This project is for educational purposes under the course curriculum.
